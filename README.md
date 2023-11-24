@@ -1,3 +1,5 @@
 # cl_salv_table_sample
- ALV using cl_salv_table - ABAP global class
- work in progress
+
+# Simple example of an ALV table using the cl_salv_table (global class)
+
+# Created just as a study.
